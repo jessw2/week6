@@ -13,5 +13,5 @@
     <label>Email:</label><input type="text" name="email" required><br>
     <label>Phone:</label><input type="text" name="phone" required>
 <input type="submit" value="Add Member">
-</body> 
+</body>  
 </html> 
